@@ -1,7 +1,8 @@
 # DigitalArt
 I am sharing some of my DigitalArt made using Adobe Photoshop and Illustrator.
-## Contributors
-### Credit goes to these people 
+## Contributors 🥰:star:
+This project is possible due to these amazing people✨
+
 <table>
 	<tr>
 		<td>
